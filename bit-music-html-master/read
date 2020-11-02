@@ -1,0 +1,8 @@
+Após uma breve análise no case apresentado pela Sony, abrimos nossa mente e começamos a seguir uma linha de raciocínio. 
+A Mariana apresentou a forma que os dados de Business Intelligence são tratados e o que chamou atenção foi a seguinte frase: "todo dia o nosso banco de dados é alimentado por milhares de dados", eles não utilizam IA nesta parte. A todo momento existem pessoas consumindo streaming, produzindo músicas e conteúdos, são muitos dados para uma equipe de estratégia ingerir e analisar em uma plataforma de BI.
+Tendo em vista essas dores, criamos a BitMusic, uma plataforma de soluções a base de Inteligência Artificial e RPA em Cloud Computing com quatro fontes de dados, sendo elas: Social Media, Social Video Platforms, Streaming e Google. 
+Cada ação demandará um tipo de atenção, onde analisaremos, desde likes, retweets, menções, comportamento de uma música ou artista nas plataformas digitais, informações disponíveis no Google, até dados de consumo disponíveis em plataformas de vídeo como YouTube e TikTok. 
+
+Como?
+A BitMusic trabalhará com técnicas de Inteligência Artificial, o processo se inicia com a leitura dos dados coletados a solução. Aplicadas a um sistema de recomendação e regressão linear, a plataforma irá coletar, filtrar e recomendar os dados ao leitor. 
+Por conta do Machine Learning, a longo prazo será possível utilizar a plataforma para outros segmentos dentro da estratégia e substituir as funções que hoje são “manuais” dentro do escopo de trabalho do profissional de Business Intelligence.
